@@ -4,41 +4,68 @@
 
 ![coffee](https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/08/best_coffee_mug.jpg)
 
-### What is this app? 🤷🏻‍♂️
+## What is this app? 🤷🏻‍♂️  
 
-These are the voyages of the Starship Enterprise. Its continuing mission, to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no one has gone before. We need to neutralize the homing signal. Each unit has total environmental control, gravity, temperature, atmosphere, light, in a protective field. Sensors show energy readings in your area. We had a forced chamber explosion in the resonator coil. Field strength has increased by 3,000 percent
-
-----------------------------------------------------------------------------------------------------------------
-
-### Goals 🎯
-
-Deflector power at maximum. Energy discharge in six seconds. Warp reactor core primary coolant failure. Fluctuate phaser resonance frequencies. Resistance is futile. Recommend we adjust shield harmonics to the upper EM band when proceeding. These appear to be some kind of power-wave-guide conduits which allow them to work collectively as they perform ship functions. Increase deflector modulation to upper frequency band.
+Have you ever had a great cup of joe and after it is all finished you wondered what the roast was, where it was originally from, and what the flavor notes were so you could grab some for your own home coffee bar? I know I have! and so it dawned on me. Coffee shares the community and sophistication like wine. And with wine, there are a whole host of apps that catalogue your wines and allow you to rate them so that you can reference them later. That way you can know just what wine was your favorite. Well, why not have the same thing, but with coffee? Hence the coffee catalogue. Don't worry, I am still thinkning of a good, permenant name.
 
 ----------------------------------------------------------------------------------------------------------------
 
-### Want to Contribute? 🆘
+## Goals 🎯
 
-Sensors indicate no shuttle or other ships in this sector. According to coordinates, we have travelled 7,000 light years and are located near the system J-25. Tractor beam released, sir. Force field maintaining our hull integrity. Damage report? Sections 27, 28 and 29 on decks four, five and six destroyed. Without our shields, at this range it is probable a photon detonation could destroy the Enterprise.
+The goals of this project are as follows:
 
-----------------------------------------------------------------------------------------------------------------
+- Create a full stack application which allows users over the internet to log their coffee brews.
+- Allow users to rate their brews and add notes to them.
+- Allow users to search for brews by name, roast, and flavor notes.
+- Allow users to add new brews to the database.
+- Allow users to edit brews in the database.
+- Allow users to delete brews from the database.
 
-### Style guides and best practices 💅🏻
-
-Exceeding reaction chamber thermal limit. We have begun power-supply calibration. Force fields have been established on all turbo lifts and crawlways. Computer, run a level-two diagnostic on warp-drive systems. Antimatter containment positive. Warp drive within normal parameters. I read an ion trail characteristic of a freighter escape pod. The bomb had a molecular-decay detonator. Detecting some unusual fluctuations in subspace frequencies.
-
-----------------------------------------------------------------------------------------------------------------
-
-### Building and using 🏗️
-
-It indicates a synchronic distortion in the areas emanating triolic waves. The cerebellum, the cerebral cortex, the brain stem,  the entire nervous system has been depleted of electrochemical energy. Any device like that would produce high levels of triolic waves. These walls have undergone some kind of selective molecular polarization. I haven't determined if our phaser energy can generate a stable field. We could alter the photons with phase discriminators.
+More goals may be added over time. This is just a rough outline of what I want to accomplish.
 
 ----------------------------------------------------------------------------------------------------------------
 
-### Thank you 🙏🏻
+## Want to Contribute? 🆘
 
-Unidentified vessel travelling at sub warp speed, bearing 235.7. Fluctuations in energy readings from it, Captain. All transporters off. A strange set-up, but I'd say the graviton generator is depolarized. The dark colourings of the scrapes are the leavings of natural rubber, a type of non-conductive sole used by researchers experimenting with electricity. The molecules must have been partly de-phased by the anyon beam.
+I would love help if you are interested. Please refer to the CONTRIBUTING.md file for more information. You can click the link below.
 
-Resistance is futile.
+[Contributing](CONTRIBUTING.md)
+
+----------------------------------------------------------------------------------------------------------------
+
+## Style guides and best practices 💅🏻
+
+If you would like to contribute code, there are few ground rules that I personally require for this project. They can be found in the CODE_STYLE.md file. You can click the link below.
+
+[Code Style](CODE_STYLE.md)
+
+----------------------------------------------------------------------------------------------------------------
+
+## Building and using 🏗️
+
+This application will require the following dependencies:
+
+- Node.js 18.0.0 or higher
+- Angular 16.0.0 or higher
+- Dotnet 7.0 or higher
+
+The document BUILD.md will walk you through cloning the repo, installing the necessary packages, and building for development. You can click the link below.
+
+[Build](BUILD.md)
+
+----------------------------------------------------------------------------------------------------------------
+
+## Thank you 🙏🏻
+
+Thank you for taking the time to read this README. I hope you enjoy the project and I hope you enjoy your coffee. ☕ Also, here is a cat, because I feel cats and coffee just go together. 🐈
+
+```text
+  |\_/|                  
+ / @ @ \                 
+( > º < )                
+ `>>x<<´                 
+ /  O  \
+ ```
 
 ----------------------------------------------------------------------------------------------------------------
 
