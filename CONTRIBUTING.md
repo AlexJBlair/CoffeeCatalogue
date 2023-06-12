@@ -19,11 +19,11 @@ We appreciate your interest in contributing to CoffeeCatalogue! This document ou
 Before you start contributing, make sure you have the following tools installed on your local machine:
 
 - [Git](https://git-scm.com/downloads)
-- A code editor of your choice, such as [Visual Studio Code](https://code.visualstudio.com/download), [Atom](https://atom.io/), or [Sublime Text](https://www.sublimetext.com/3).
+- A code editor of your choice, such as [Visual Studio Code](https://code.visualstudio.com/download), or [Sublime Text](https://www.sublimetext.com/3).
 
 ## Fork the Repository
 
-1. Navigate to the [CoffeeCatalogue GitHub repository](https://github.com/Deveesh-Shetty/CoffeeCatalogue).
+1. Navigate to the [CoffeeCatalogue GitHub repository](https://github.com/AlexJBlair/CoffeeCatalogue).
 2. Click the "Fork" button in the top-right corner of the page to create a copy of the repository in your GitHub account.
 
 ## Clone the Repository
@@ -88,7 +88,7 @@ Replace `your-new-branch-name` with the name of your branch.
 
 ## Submit a Pull Request
 
-1. Navigate to the [CoffeeCatalogue GitHub repository](https://github.com/Deveesh-Shetty/CoffeeCatalogue).
+1. Navigate to the [CoffeeCatalogue GitHub repository](https://github.com/AlexJBlair/CoffeeCatalogue).
 2. Click the "New pull request" button.
 3. Click "compare across forks" and select your forked repository and branch from the dropdown menus.
 4. Review the changes and click "Create pull request."
