@@ -4,15 +4,17 @@ We appreciate your interest in contributing to CoffeeCatalogue! This document ou
 
 ## Table of Contents
 
-- [Prerequisites](#prerequisites)
-- [Fork the Repository](#fork-the-repository)
-- [Clone the Repository](#clone-the-repository)
-- [Create a New Branch](#create-a-new-branch)
-- [Make Changes](#make-changes)
-- [Commit Your Changes](#commit-your-changes)
-- [Push to Your Fork](#push-to-your-fork)
-- [Submit a Pull Request](#submit-a-pull-request)
-- [Code Review](#code-review)
+- [Contributing to CoffeeCatalogue](#contributing-to-coffeecatalogue)
+  - [Table of Contents](#table-of-contents)
+  - [Prerequisites](#prerequisites)
+  - [Fork the Repository](#fork-the-repository)
+  - [Clone the Repository](#clone-the-repository)
+  - [Create a New Branch](#create-a-new-branch)
+  - [Make Changes](#make-changes)
+  - [Commit Your Changes](#commit-your-changes)
+  - [Push to Your Fork](#push-to-your-fork)
+  - [Submit a Pull Request](#submit-a-pull-request)
+  - [Code Review](#code-review)
 
 ## Prerequisites
 
@@ -20,11 +22,19 @@ Before you start contributing, make sure you have the following tools installed 
 
 - [Git](https://git-scm.com/downloads)
 - A code editor of your choice, such as [Visual Studio Code](https://code.visualstudio.com/download), or [Sublime Text](https://www.sublimetext.com/3).
+- NodeJS (At least version: 18.16.0) and NPM (At least version: 9.5.1). You can download the latest version of NodeJS and NPM [here](https://nodejs.org/en/download/).
+- Angular CLI (At least version: 13.1.2). You can install the latest version of Angular CLI by running the following command in your terminal/command prompt:
+
+```bash
+  npm install -g @angular/cli
+```
+
+- MongoDB (At least version: 5.0.3). You can download the latest version of MongoDB [here](https://www.mongodb.com/try/download/community).
 
 ## Fork the Repository
 
 1. Navigate to the [CoffeeCatalogue GitHub repository](https://github.com/AlexJBlair/CoffeeCatalogue).
-2. Click the "Fork" button in the top-right corner of the page to create a copy of the repository in your GitHub account.
+2. Click the "Fork" button in the top-right corner of the page to create a copy of the repository on your GitHub account.
 
 ## Clone the Repository
 
