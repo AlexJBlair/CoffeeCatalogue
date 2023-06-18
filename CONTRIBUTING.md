@@ -16,6 +16,8 @@ We appreciate your interest in contributing to CoffeeCatalogue! This document ou
   - [Submit a Pull Request](#submit-a-pull-request)
   - [Code Review](#code-review)
 
+---
+
 ## Prerequisites
 
 Before you start contributing, make sure you have the following tools installed on your local machine:
@@ -31,10 +33,14 @@ Before you start contributing, make sure you have the following tools installed 
 
 - MongoDB (At least version: 5.0.3). You can download the latest version of MongoDB [here](https://www.mongodb.com/try/download/community).
 
+---
+
 ## Fork the Repository
 
 1. Navigate to the [CoffeeCatalogue GitHub repository](https://github.com/AlexJBlair/CoffeeCatalogue).
 2. Click the "Fork" button in the top-right corner of the page to create a copy of the repository on your GitHub account.
+
+---
 
 ## Clone the Repository
 
@@ -47,6 +53,8 @@ Before you start contributing, make sure you have the following tools installed 
 ```
 
 Replace `YOUR_USERNAME` with your GitHub username.
+
+---
 
 ## Create a New Branch
 
@@ -64,11 +72,15 @@ Replace `YOUR_USERNAME` with your GitHub username.
 
 Replace `your-new-branch-name` with a descriptive name for your branch, such as `add-new-feature`.
 
+---
+
 ## Make Changes
 
 1. Open the project in your preferred code editor.
 2. Make the necessary changes to the project. This could include adding new features, fixing bugs, or improving existing code.
 3. Test your changes to ensure they work correctly and do not introduce new bugs.
+
+---
 
 ## Commit Your Changes
 
@@ -86,6 +98,8 @@ Replace `your-new-branch-name` with a descriptive name for your branch, such as 
 
 Replace `Your commit message here` with a brief description of the changes you made.
 
+---
+
 ## Push to Your Fork
 
 1. Push your changes to your forked repository on GitHub:
@@ -96,6 +110,8 @@ Replace `Your commit message here` with a brief description of the changes you m
 
 Replace `your-new-branch-name` with the name of your branch.
 
+---
+
 ## Submit a Pull Request
 
 1. Navigate to the [CoffeeCatalogue GitHub repository](https://github.com/AlexJBlair/CoffeeCatalogue).
@@ -103,6 +119,8 @@ Replace `your-new-branch-name` with the name of your branch.
 3. Click "compare across forks" and select your forked repository and branch from the dropdown menus.
 4. Review the changes and click "Create pull request."
 5. Add a descriptive title and any additional comments, then click "Create pull request" again.
+
+---
 
 ## Code Review
 
